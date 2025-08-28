@@ -1,4 +1,8 @@
-## 👋 Hello, I'm  UMME HABIBA
+<div align="center">
+
+## 👋 Hello, I'm UMME HABIBA
+
+</div>
 
 <!--
 **dev-habiba/dev-habiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
