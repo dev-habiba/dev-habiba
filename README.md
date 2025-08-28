@@ -1,6 +1,8 @@
 <div align="center">
 
-## 👋 Hello, I'm UMME HABIBA
+# 👋 Hello, I'm UMME HABIBA  
+
+🚀 Full Stack Developer | 🧠 Problem Solver 
 
 </div>
 
