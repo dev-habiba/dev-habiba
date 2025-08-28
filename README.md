@@ -25,12 +25,9 @@
 
 ---
 
-## 📫 How to reach me  
-- 📧 Email: [ummehabiba7145@gmail.com](mailto:ummehabiba7145@gmail.com)  
+## 📫 Connect with Me  
+- 🌐 [Facebook](https://www.facebook.com/umme.habiba.862647)  
+- ✉️ [Email](mailto:ummehabiba7145@gmail.com)  
 
 ---
-
-## 📊 GitHub Stats  
-![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-habiba&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-habiba&layout=compact&theme=radical)  
 
